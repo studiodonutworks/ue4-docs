@@ -1,5 +1,5 @@
 # Material
 
-### Blendspaces
+## Blendspaces
 
-### Lighting mode
+## Lighting mode
